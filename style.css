@@ -103,6 +103,12 @@ html{
     margin: auto;
     text-align: center;
     padding-top: 100px;
+    box-sizing: border-box;
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    transition: 0.5s;
 }
 h1{
     font-size: 36px;
