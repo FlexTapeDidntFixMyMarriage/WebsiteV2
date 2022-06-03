@@ -124,7 +124,7 @@ p{
 }
 .about-col{
     flex-basis: 31%;
-    background: rgb(181, 164, 185);
+    background: rgb(89, 89, 126);
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
@@ -149,7 +149,7 @@ h3{
 
 .contact-col{
     flex-basis: 50%;
-    background: rgb(181, 164, 185);
+    background: rgb(89, 89, 126);
     border-radius: 20px;
     margin-bottom: 5%;
     padding: 20px 12px;
@@ -168,5 +168,5 @@ h3{
     left: 0;
 }
 body{
-    background: rgb(181, 164, 185);
+    background: rgb(89, 89, 126);
 }
