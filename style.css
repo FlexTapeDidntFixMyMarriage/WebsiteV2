@@ -170,3 +170,15 @@ h3{
 body{
     background: rgb(89, 89, 126);
 }
+.abouthtml-col{
+    flex-basis: 50%;
+    background: rgb(89, 89, 126);
+    border-radius: 20px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+.abouthtml-col img{
+    width: 100%;
+}
